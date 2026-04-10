@@ -15,4 +15,10 @@ jobs:
 
       - name: Boa tarde!
         run: echo "Fatec ZS"
+
+      - name: Vamos finalizar
+        run: echo "Finalizando"
+
+      - name: Rodando Erro 
+        run: Zum-Clack
       
