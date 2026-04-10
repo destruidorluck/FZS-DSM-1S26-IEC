@@ -11,7 +11,7 @@ jobs:
         run: echo "Olá, Fatec"
 
       - name: Fazendo clone e checkout do meu repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Boa tarde!
         run: echo "Fatec ZS"
